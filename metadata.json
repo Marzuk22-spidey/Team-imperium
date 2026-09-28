@@ -1,0 +1,6 @@
+{
+  "name": "SRM Attendance Predictor",
+  "description": "Real timetable-based attendance prediction and detention recovery system for SRM Institute of Science and Technology.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
